@@ -41,9 +41,9 @@ export function Header() {
 
         <div className="flex items-center space-x-4">
           <Button asChild className="hidden md:inline-flex bg-[#d62828] hover:bg-[#c41c1c] text-white">
-            <Link href="tel:+33764843151" className="flex items-center gap-2">
+            <Link href="tel:+33699485338" className="flex items-center gap-2">
               <Phone className="h-4 w-4" />
-              <span className="text-lg font-bold">07 64 84 31 51</span>
+              <span className="text-lg font-bold">06 99 48 53 38</span>
             </Link>
           </Button>
 
@@ -73,9 +73,9 @@ export function Header() {
                 </nav>
                 <div className="pt-4 border-t">
                   <Button asChild className="w-full bg-[#d62828] hover:bg-[#c41c1c] text-white" size="lg">
-                    <Link href="tel:+33764843151" className="flex items-center gap-2">
+                    <Link href="tel:+33699485338" className="flex items-center gap-2">
                       <Phone className="h-5 w-5" />
-                      <span className="text-lg font-bold">07 64 84 31 51</span>
+                      <span className="text-lg font-bold">06 99 48 53 38</span>
                     </Link>
                   </Button>
                 </div>

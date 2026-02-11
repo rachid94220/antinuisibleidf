@@ -115,7 +115,7 @@ export function ContactSection() {
               </CardHeader>
               <CardContent>
                 <div className="text-center">
-                  <div className="text-3xl font-bold text-[#d62828] mb-2">07 64 84 31 51</div>
+                  <div className="text-3xl font-bold text-[#d62828] mb-2">06 99 48 53 38</div>
                   <p className="text-gray-600">Intervention rapide en Île-de-France</p>
                 </div>
               </CardContent>

@@ -58,9 +58,9 @@ export function Hero() {
                 size="lg"
                 className="bg-white text-[#d62828] hover:bg-white/90 border-white font-bold hover:scale-105 transition-all duration-300 shadow-lg hover:shadow-xl text-sm sm:text-base px-4 sm:px-6 py-3 sm:py-4"
               >
-                <Link href="tel:+33764843151" className="flex items-center gap-2 sm:gap-3">
+                <Link href="tel:+33699485338" className="flex items-center gap-2 sm:gap-3">
                   <Phone className="h-4 w-4 sm:h-5 sm:w-5 md:h-6 md:w-6" />
-                  <span className="text-base sm:text-lg md:text-xl">07 64 84 31 51</span>
+                  <span className="text-base sm:text-lg md:text-xl">06 99 48 53 38</span>
                 </Link>
               </Button>
             </div>
