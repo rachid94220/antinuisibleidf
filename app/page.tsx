@@ -4,6 +4,7 @@ import { Services } from "@/components/services"
 import { AboutUs } from "@/components/about-us"
 import { Testimonials } from "@/components/testimonials"
 import { ContactSection } from "@/components/contact-section"
+import { QuoteForm } from "@/components/quote-form"
 import { Footer } from "@/components/footer"
 import { FloatingCallButton } from "@/components/floating-call-button"
 
